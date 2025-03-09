@@ -24,3 +24,6 @@
 - **Correlation Matrix**: Computes pairwise correlations between asset returns using pandas.
 - **Clustering**: Applies Agglomerative Clustering to group assets based on correlation distance, highlighting diversification or risk clusters.
 - **Visualization**: Generates a heatmap with Seaborn, annotated with correlation values and cluster information.
+
+## Screenshots
+![output](output.png)
